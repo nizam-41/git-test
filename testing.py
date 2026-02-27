@@ -1,1 +1,2 @@
-print("hello dosto")
+print("hello dosto this is my first code")
+
